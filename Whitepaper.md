@@ -130,7 +130,7 @@ With a well-defined roadmap, robust tokenomics, and a clear vision for global ex
 
 **For More Information:**
 
-* [EstateChain Website](https://Estate-Chain.tech) 🌐
+* [EstateChain Website](https://EstateChain.tech) 🌐
 * [Telegram Community](https://t.me/Estate_Chain) 💬
 * [Follow us on X](https://x.com/Estate_Chain_) 🐦
 
