@@ -94,7 +94,7 @@ EstateChain collects a **7% fee** on each successful investment round, distribut
 - Website: [EstateChain.tech](https://www.estatechain.tech)  
 - Twitter/X: [@Estate_Chain_](https://x.com/Estate_Chain_)  
 - Telegram: [t.me/estatechain_gateway](https://t.me/estatechain_gateway)  
-- Whitepaper:[WHITEPAPER](https://github.com/Estate-Chain/Estate-Chain/blob/main/Whitepaper.md  )
+- [WHITEPAPER](https://github.com/Estate-Chain/Estate-Chain/blob/main/Whitepaper.md  )
 
 ---
 
